@@ -15,7 +15,7 @@ router.route("/register").post(
             maxCount:1
         }
     ]),//inject middlewares
-    registerUser)
+    registerUser);
 
 
 export default router;
