@@ -44,7 +44,7 @@ password:{
     required : [true,'password is required']
 
 },
-refreshtoken : {
+refreshToken : {
     type : String
 },
 
